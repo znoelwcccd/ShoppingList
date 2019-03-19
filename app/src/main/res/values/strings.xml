@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_item_button_string">Add Item</string>
+    <string name="item_list_string">Item List</string>
+    <string name="item1_string">Milk</string>
+    <string name="item2_string">Cheese</string>
+    <string name="item3_string">Eggs</string>
+    <string name="item4_string">Bread</string>
+    <string name="item5_string">Juice</string>
+    <string name="item6_string">Steak</string>
+    <string name="item7_string">Chicken</string>
+    <string name="item8_string">Vegetables</string>
+</resources>
